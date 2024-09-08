@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cottoncandy2014
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Swift
 - ⚡ Fun fact: I probobly know more python than you
